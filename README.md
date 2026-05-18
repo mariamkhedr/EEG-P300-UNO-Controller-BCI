@@ -1,0 +1,1 @@
+EEG signal processing and machine learning module for a Brain-Computer Interface (BCI) UNO game for individuals with special needs. Note: My contribution is strictly the EEG analysis and classification pipeline. The game environment and networking were developed separately by the team.
